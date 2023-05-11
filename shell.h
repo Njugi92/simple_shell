@@ -84,7 +84,7 @@ list_t *alias;
 char **environ;
 int env_changed;
 int status;
-char **cmd_buf; /*it is a pointer to cmd ; chain buffer, for memory mangement */
+char **cmd_buf; /*it's a pointer to cmd ; chain buffer, for memory mangement */
 int cmd_buf_type; /* CMD_type ||, &&, ; */
 int readfd;
 int histcount;
