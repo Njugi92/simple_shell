@@ -9,7 +9,7 @@
 #include <limits.h>
 #include <fcntl.h>
 #include <errno.h>
-#include <stdli.h>
+#include <stdlib.h>
 #include <stdio.h>
 
 /* for read/write buffers */
