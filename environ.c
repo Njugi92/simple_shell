@@ -77,4 +77,3 @@ add_node_end(&node, environ[j], 0);
 info->env = node;
 return (0);
 }
-}
